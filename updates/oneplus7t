@@ -1,0 +1,15 @@
+{
+  "updates": [
+    {
+                  "date": "2022-07-30",
+                  "datetime": "20220730",
+                  "filename": "aospa-sapphire-1-oneplus7tpro-release-20220721.zip",
+                  "url": "https://github.com/aospa-op7/ota_test/releases/download/1.0/aospa-sapphire-1-oneplus7tpro-release-20220721.zip",
+                  "id": "b9b8933ef9529dc93b6efd71fdbfa033",
+                  "size": "1699418497",
+                  "romtype": "Release",
+                  "number" : "1",
+                  "version": "Sapphire"
+    }
+  ]
+}
